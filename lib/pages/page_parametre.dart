@@ -29,7 +29,7 @@ class PageParametre extends StatelessWidget {
             tooltip: 'Rechercher',
             onPressed: () => {
               //Instruction pour naviguer vers la page de recherche
-              print("Page de recherche ici") 
+              print("Page de recherche ici")
             },
             icon: const Icon(Icons.search)),
         ],
